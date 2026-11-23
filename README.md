@@ -4,7 +4,7 @@
 - ☎️ Atualmente eu trabalho como Assistente Comercial
 - 📝 Estou iniciando os estudos em Front End
 - 🖥️ Estou a procura de uma oportunidade na área de TI
-- 📖 Atualmente faço faculdade de Gestão de TI
+- 📖 Atualmente faço faculdade de Sistema para internet 
 
 ---
 
